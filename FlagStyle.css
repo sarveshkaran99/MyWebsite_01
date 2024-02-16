@@ -46,7 +46,7 @@ top: 100px;
 }
 
 #s1{
-    width: 2px;
+    width: 1px;
     height:50px;
     background-color: blue;
     left:50%;
@@ -54,11 +54,111 @@ top: 100px;
 
 }
 #s2{
-    width: 2px;
+    width: 1px;
     height:50px;
     background-color: blue;
-    left:65%;
-    rotate: 1px;
+    left:50%;
+    rotate: 15deg;
+    position: absolute;
+      ;
+
+}
+#s3{
+    width: 1px;
+    height:50px;
+    background-color: blue;
+    left:50%;
+    rotate: 30deg;
+    position: absolute;
+      ;
+
+}
+#s4{
+    width: 1px;
+    height:50px;
+    background-color: blue;
+    left:50%;
+    rotate: 45deg;
+    position: absolute;
+      ;
+
+}
+#s5{
+    width: 1px;
+    height:50px;
+    background-color: blue;
+    left:50%;
+    rotate: 60deg;
+    position: absolute;
+      ;
+
+}
+#s6{
+    width: 1px;
+    height:50px;
+    background-color: blue;
+    left:50%;
+    rotate: 75deg;
+    position: absolute;
+      ;
+
+}
+#s7{
+    width: 1px;
+    height:50px;
+    background-color: blue;
+    left:50%;
+    rotate: 90deg;
+    position: absolute;
+      ;
+
+}
+#s8{
+    width: 1px;
+    height:50px;
+    background-color: blue;
+    left:50%;
+    rotate: 105deg;
+    position: absolute;
+      ;
+
+}
+#s9{
+    width: 1px;
+    height:50px;
+    background-color: blue;
+    left:50%;
+    rotate: 120deg;
+    position: absolute;
+      ;
+
+}
+#s10{
+    width: 1px;
+    height:50px;
+    background-color: blue;
+    left:50%;
+    rotate: 135deg;
+    position: absolute;
+      ;
+
+}
+#s11{
+    width: 1px;
+    height:50px;
+    background-color: blue;
+    left:50%;
+    rotate: 150deg;
+    position: absolute;
+      ;
+
+}
+#s12{
+    width: 1px;
+    height:50px;
+    background-color: blue;
+    left:50%;
+    rotate: 165deg;
     position: absolute;
       ;
 
